@@ -31,3 +31,18 @@ Assignments found done in ./cars.rb
 
 ## Question 4
 **Rspec and the dreaded instance double**
+*How to you initialize Rspec*
+- touch Gemfile
+- echo in Source 'https://rubygems.org' and gem 'rspec'
+- rspec --init
+- Set up formation in .rspec: --format documentation
+- Create your spec and happy testing days
+
+*Why do we write tests before implementation? What are the benefits of this?*
+This is called test driven development and allows us to create an overview of the problem. 
+It forces us to be mindful of what it really is, that we want our code to do, thus also giving us a clearer finish line. 
+
+*Write a user story for the painting method*
+As a car
+In order to get pimped up
+It needs to be able to change its colors
