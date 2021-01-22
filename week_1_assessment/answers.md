@@ -26,3 +26,8 @@ Symbols = Holds a value.
 2.5.1 :007 > car_arr[1][:color]
 
 ## Question 3
+**Classes and methods**
+Assignments found done in ./cars.rb
+
+## Question 4
+**Rspec and the dreaded instance double**
